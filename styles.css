@@ -8,6 +8,8 @@ html {
     padding: 0px;
     margin: 0px;
     font-family: 'Roboto', sans-serif;
+
+    overflow-x: hidden;
 }
 
 body {
@@ -34,4 +36,8 @@ section {
 
 audio {
     width: 70%;
+}
+
+canvas {
+    overflow: hidden;
 }
