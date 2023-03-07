@@ -41,3 +41,13 @@ audio {
 canvas {
     overflow: hidden;
 }
+
+#portfolio {
+    color: lightblue;
+    font-size: 100px;
+    text-decoration: none;
+}
+
+#portfolio:hover {
+    text-decoration: underline;
+}
